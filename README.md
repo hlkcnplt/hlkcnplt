@@ -1,21 +1,3 @@
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdvZ2s5MWd4aW12YXZmOXBmaTlvNWV3b3d0czJicmZtNTY1NDJkMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YPjYq9QA9SFG5jstsm/giphy.gif"  />
-
-###
-
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">Hi, I'm Haluk. <br>I'm a developer and designer. <br>I love creating stuff.<br><br>kretea.com</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Languages & Tools</h2>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
   <img width="12" />
