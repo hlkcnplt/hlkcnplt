@@ -1,3 +1,7 @@
+<h2 align="left">Languages & Tools</h2>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
   <img width="12" />
